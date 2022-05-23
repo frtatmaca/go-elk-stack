@@ -45,6 +45,9 @@ You can dockerize the project via command:
 ```Shell
 docker-compose up -d
 ```
+## Watching Logs on Kibana
+
+http://localhost:5601/app/kibana#/home
 
 ## About me
 
